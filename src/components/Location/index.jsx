@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { MapContainer } from '../MapContainer';
 
 
 class Location extends Component {
