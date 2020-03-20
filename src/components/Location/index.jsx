@@ -10,7 +10,7 @@ class Location extends Component {
             <div className="col-md-6">
               <div className="col-md-10 col-md-offset-1">
                 <div className="section-title">
-                  <h2>Find Us</h2>
+                  <h2>find us</h2>
                 </div>
                 <p>Blk 645 Yishun Street 61 #01-322</p>
                 <p>Singapore 760645</p>

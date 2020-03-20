@@ -266,10 +266,10 @@ th {
 }
 
 @font-face {
-  font-family: 'Belista';
+  font-family: 'Nightwear';
 
-  src: url('../fonts/belista-webfont.eot');
-  src: url('../fonts/belista-webfont.eot?') format('embedded-opentype'), url('../fonts/belista-webfont.woff2') format('woff2'), url('../fonts/belista-webfont.woff') format('woff'), url('../fonts/belista-webfont.ttf') format('truetype'), url('../fonts/belista-webfont.svg#belista-webfrontregular') format('svg');
+  src: url('../fonts/nightwear-webfont.eot');
+  src: url('../fonts/nightwear-webfont.eot?') format('embedded-opentype'), url('../fonts/nightwear-webfont.woff2') format('woff2'), url('../fonts/nightwear-webfont.woff') format('woff'), url('../fonts/belista-webfont.ttf') format('truetype'), url('../fonts/nightwear-webfont.svg#nightwear-webfrontregular') format('svg');
 }
 * {
   -webkit-box-sizing: border-box;

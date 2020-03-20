@@ -6,12 +6,12 @@ class Menu extends Component {
             <div id="restaurant-menu">
                 <div className="container">
                     <div className="section-title text-center">
-                        <h2>Menu</h2>
+                        <h2>menu</h2>
                     </div>
                     <div className="row">
                         <div className="col-xs-12 col-sm-6">
                             <div className="menu-section">
-                                <h2 className="menu-section-title">Breakfast & Starters</h2>
+                                <h3 className="menu-section-title">Breakfast & Starters</h3>
                                 <div className="menu-item">
                                     <div className="menu-item-name">Tortellini Skewers</div>
                                     <div className="menu-item-price"> $9 </div>
@@ -36,7 +36,7 @@ class Menu extends Component {
                         </div>
                         <div className="col-xs-12 col-sm-6">
                             <div className="menu-section">
-                                <h2 className="menu-section-title">Main Course</h2>
+                                <h3 className="menu-section-title">Main Course</h3>
                                 <div className="menu-item">
                                     <div className="menu-item-name">Roast Stuffed Chicken</div>
                                     <div className="menu-item-price"> $18 </div>
@@ -63,7 +63,7 @@ class Menu extends Component {
                     <div className="row">
                         <div className="col-xs-12 col-sm-6">
                             <div className="menu-section">
-                                <h2 className="menu-section-title">Dinner</h2>
+                                <h3 className="menu-section-title">Dinner</h3>
                                 <div className="menu-item">
                                     <div className="menu-item-name">Sesame-Ginger Beef</div>
                                     <div className="menu-item-price"> $15 </div>
@@ -88,7 +88,7 @@ class Menu extends Component {
                         </div>
                         <div className="col-xs-12 col-sm-6">
                             <div className="menu-section">
-                                <h2 className="menu-section-title">Desserts</h2>
+                                <h3 className="menu-section-title">Desserts</h3>
                                 <div className="menu-item">
                                     <div className="menu-item-name">Chocolate Mud Cake</div>
                                     <div className="menu-item-price"> $11 </div>

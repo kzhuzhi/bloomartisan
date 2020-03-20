@@ -6,7 +6,7 @@ class SignatureDishes extends Component {
             <div id="signatures" className="text-center">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Our Specials</h2>
+                        <h2>our specials</h2>
                     </div>
                     <div className="row">
                         <div className="col-xs-12 col-sm-4">

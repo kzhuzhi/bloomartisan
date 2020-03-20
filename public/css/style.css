@@ -7,14 +7,17 @@ body, html {
 	width: 100% !important;
 	height: 100% !important;
 }
-h1, h2, h3, h4 {
-	font-family: 'Belista','Raleway', sans-serif;
+h3, h4 {
+	font-family: 'Raleway', sans-serif;
+}
+h1, h2 {
+	font-family: 'Nightwear','Raleway', sans-serif;
 }
 h2 {
 	font-weight: 400;
-	font-size: 38px;
+	font-size: 90px;
 	color: #333;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	position: relative;
 	margin-top: 10px;
 	margin-bottom: 15px;
@@ -292,7 +295,8 @@ header .intro-text {
 	margin: 0 20px 80px;
 }
 #restaurant-menu .menu-section-title {
-	font-size: 32px;
+	/* font-size: 32px; */
+	font-size: 28px;
 	display: block;
 	font-weight: 400;
 	color: #444;
