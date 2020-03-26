@@ -8,15 +8,15 @@ body, html {
 	height: 100% !important;
 }
 h3, h4 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Bernn','Raleway', sans-serif;
 }
 h1, h2 {
 	font-family: 'Nightwear','Raleway', sans-serif;
 }
 h2 {
 	font-weight: 400;
-	font-size: 90px;
-	color: #333;
+	font-size: 80px;
+	color: #595c55;
 	/* text-transform: uppercase; */
 	position: relative;
 	margin-top: 10px;
@@ -26,7 +26,7 @@ h2 {
 h2::after {
 	position: absolute;
 	content: "";
-	background: #d43031;
+	background: #ff8d6d;
 	height: 2px;
 	width: 70px;
 	bottom: 0;
@@ -57,7 +57,7 @@ p.intro {
 	line-height: 24px;
 }
 a {
-	color: #8eb640;
+	color: #597e51;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -113,24 +113,25 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	letter-spacing: 0.5px;
 	margin: 0 40px 0 40px;
 }
+
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #d43031;
+	color: #ff8d6d;
 }
 .on {
-	background-color: #262626 !important;
+	background-color: #595c55 !important;
 	padding: 0 !important;
 	padding: 10px 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #d43031 !important;
+	color: #ff8d6d !important;
 	background-color: transparent;
 }
 .navbar-toggle {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #d43031;
-	border-color: #d43031;
+	background-color: #ff8d6d;
+	border-color: #ff8d6d;
 }
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #FFF;
@@ -168,10 +169,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: #ddd;
-	border: 2px solid #d43031;
-	background-color: #d43031;
+	border: 2px solid #ff8d6d;
+	background-color: #ff8d6d;
 }
-.fa-instagram:before {
+.fa-instagram {
 	content: "\f16d";
 	color: rgb(244, 246, 248);
 	font-size: 20px;
@@ -182,7 +183,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-right: 10px;
 	margin-bottom: 4px;
   }
-  .fa-facebook-square:before {
+.fa-instagram:hover {
+    color: #ff8d6d;
+}
+.fa-facebook-square {
 	content: "\f082";
 	color: rgb(244, 246, 248);
 	font-size: 20px;
@@ -193,21 +197,23 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-right: 10px;
 	margin-bottom: 4px;
   }
+.fa-facebook-square:hover {
+    color: #ff8d6d;
+}
 /* Header Section */
 .intro {
 	display: table;
 	width: 100%;
-	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
-	background-color: #e5e5e5;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
+	padding: 90px;
+	background: url(../img/muffinwafflehero.jpg) center center no-repeat;
+	-webkit-background-size: contain;
+	-moz-background-size: contain; 
+	background-size: contain;
+	-o-background-size: contain;
 }
-.intro .overlay {
+/* .intro .overlay {
 	background: rgba(0,0,0,0.4);
-}
+} */
 .intro h1 {
 	font-family: 'Rochester', cursive;
 	color: #fff;
@@ -335,12 +341,20 @@ header .intro-text {
 	padding: 120px 0;
 }
 #findus h2::after {
-	bottom: 0;
+	/* bottom: 0;
 	margin-left: 0;
-	left: 0;
+	left: 0; */
+	position: absolute;
+	content: "";
+	background: #ff8d6d;
+	height: 2px;
+	width: 70px;
+	bottom: 0;
+	margin-left: -35px;
+	left: 50%;
 }
 #findus img {
-	max-width: 100%;
+	max-width: 70%;
 }
 #findus .findus-img {
 	display: inline-block;
@@ -437,8 +451,8 @@ color: #999;
 }
 /* Footer Section*/
 #footer {
-	background: #262626;
-	padding: 40px 0 20px 0;
+	background: #595c55;
+	padding: 10px 0 5px 0;
 }
 #footer .social {
 	margin-top: -5px;
@@ -458,8 +472,9 @@ color: #999;
 	color: #eee;
 }
 #footer p {
-	font-size: 14px;
-	color: #666;
+	font-size: 12px;
+	color: #eee;
+	padding: 4px;
 }
 #footer a {
 	color: #999;

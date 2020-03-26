@@ -19,12 +19,12 @@ class Navbar extends Component {
                         </ul>
                         <ul className="nav navbar-nav-right">
                             <ul>
-                                <li><a href=""><i className="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.instagram.com/bloomartisancafe/" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a></li>
                             </ul>   
                         </ul>
                         <ul className="nav navbar-nav-right">
                             <ul>
-                                <li><a href=""><i className="fa fa-facebook-square"></i></a></li>
+                                <li><a href="https://www.facebook.com/bloomartisancafe" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook-square"></i></a></li>
                             </ul>   
                         </ul>
                         

@@ -264,12 +264,17 @@ th {
     border: 1px solid #ddd !important;
   }
 }
+@font-face {
+  font-family: 'Bernn';
 
+  src: url('../fonts/bernn-webfont.eot');
+  src: url('../fonts/bernn-webfont.eot?') format('embedded-opentype'), url('../fonts/bernn-webfont.woff2') format('woff2'), url('../fonts/bernn-webfont.woff') format('woff'), url('../fonts/bernn-webfont.ttf') format('truetype'), url('../fonts/bernn-webfont.svg#nightwear-webfrontregular') format('svg');
+}
 @font-face {
   font-family: 'Nightwear';
 
   src: url('../fonts/nightwear-webfont.eot');
-  src: url('../fonts/nightwear-webfont.eot?') format('embedded-opentype'), url('../fonts/nightwear-webfont.woff2') format('woff2'), url('../fonts/nightwear-webfont.woff') format('woff'), url('../fonts/belista-webfont.ttf') format('truetype'), url('../fonts/nightwear-webfont.svg#nightwear-webfrontregular') format('svg');
+  src: url('../fonts/nightwear-webfont.eot?') format('embedded-opentype'), url('../fonts/nightwear-webfont.woff2') format('woff2'), url('../fonts/nightwear-webfont.woff') format('woff'), url('../fonts/nightwear-webfont.ttf') format('truetype'), url('../fonts/nightwear-webfont.svg#nightwear-webfrontregular') format('svg');
 }
 * {
   -webkit-box-sizing: border-box;
@@ -288,7 +293,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Bernn", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
