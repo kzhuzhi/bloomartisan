@@ -45,7 +45,8 @@ h4 {
 	color: #333;
 }
 h5 {
-	text-transform: uppercase;
+	font-size: 16px;
+	font-family: 'Bernn','Raleway', sans-serif;
 	font-weight: 700;
 	line-height: 20px;
 }
@@ -284,7 +285,7 @@ header .intro-text {
 }
 /* Menu Section */
 #restaurant-menu {
-	padding: 100px 0 60px 0;
+	padding: 50px 0 60px 0;
 }
 #restaurant-menu img {
 	width: 300px;
@@ -292,7 +293,6 @@ header .intro-text {
 }
 #restaurant-menu h3 {
 	padding: 10px 0;
-	text-transform: uppercase;
 }
 #restaurant-menu .menu-section hr {
 	margin: 0 auto;
@@ -302,7 +302,7 @@ header .intro-text {
 }
 #restaurant-menu .menu-section-title {
 	/* font-size: 32px; */
-	font-size: 28px;
+	font-size: 24px;
 	display: block;
 	font-weight: 400;
 	color: #444;
@@ -314,6 +314,7 @@ header .intro-text {
 	font-size: 18px;
 }
 #restaurant-menu .menu-item-name {
+	font-family: "Bernn";
 	font-weight: 400;
 	font-size: 20px;
 	color: #444;
