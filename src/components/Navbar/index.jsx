@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 
 class Navbar extends Component {
     render() {
@@ -11,7 +10,8 @@ class Navbar extends Component {
                     </div>
                     <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul className="nav navbar-nav">
-                        <li><a href="#home" className="page-scroll">Home</a></li>
+                            <li><a href="#home" className="page-scroll">Home</a></li>
+                            <li><a href="#about" className="page-scroll">About</a></li>
                             <li><a href="#signatures" className="page-scroll">Signatures</a></li>
                             <li><a href="#restaurant-menu" className="page-scroll">Menu</a></li>
                             <li><a href="#findus" className="page-scroll">Find Us</a></li>
@@ -19,12 +19,12 @@ class Navbar extends Component {
                         </ul>
                         <ul className="nav navbar-nav-right">
                             <ul>
-                                <li><a href=""><i className="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.instagram.com/bloomartisancafe/" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a></li>
                             </ul>   
                         </ul>
                         <ul className="nav navbar-nav-right">
                             <ul>
-                                <li><a href=""><i className="fa fa-facebook-square"></i></a></li>
+                                <li><a href="https://www.facebook.com/bloomartisancafe" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook-square"></i></a></li>
                             </ul>   
                         </ul>
                         

@@ -3,13 +3,13 @@
 
 
 @font-face {
-    font-family: 'belistaregular';
-    src: url('belista-webfont.eot');
-    src: url('belista-webfont.eot?#iefix') format('embedded-opentype'),
-         url('belista-webfont.woff2') format('woff2'),
-         url('belista-webfont.woff') format('woff'),
-         url('belista-webfont.ttf') format('truetype'),
-         url('belista-webfont.svg#belistaregular') format('svg');
+    font-family: 'nightwearregular';
+    src: url('nightwear-webfont.eot');
+    src: url('nightwear-webfont.eot?#iefix') format('embedded-opentype'),
+         url('nightwear-webfont.woff2') format('woff2'),
+         url('nightwear-webfont.woff') format('woff'),
+         url('nightwear-webfont.ttf') format('truetype'),
+         url('nightwear-webfont.svg#nightwearregular') format('svg');
     font-weight: normal;
     font-style: normal;
 

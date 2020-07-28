@@ -8,17 +8,16 @@ class Home extends Component {
                     <div className="overlay">
                         <div className="container">
                             <div className="row">
-                                    <div className="intro-text">
-                                        <h1>Bloom Artisan</h1>
-                                        <p></p>
-                                    </div>
-                            </div>
+                                <div className="intro-text">
+                                    <p></p>
+                                </div>
                             </div>
                         </div>
                     </div>
+                </div>
             </header>
 
-                );
-            }
-        }
+        );
+    }
+}
 export default Home;
