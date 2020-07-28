@@ -11,55 +11,91 @@ class Menu extends Component {
                     <div className="row">
                         <div className="col-xs-12 col-sm-6">
                             <div className="menu-section">
-                                <h3 className="menu-section-title">breakfast & starters</h3>
+                                <h3 className="menu-section-title">GELATO</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">tortellini skewers</div>
-                                    <div className="menu-item-price"> $9 </div>
-                                    <div className="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
+                                    <div className="menu-item-name">single scoop</div>
+                                    <div className="menu-item-price"> 3.5 </div>
+                                    <div className="menu-item-name">single premium</div>
+                                    <div className="menu-item-price"> 4.2 </div>
+                                    <div className="menu-item-name">double scoop</div>
+                                    <div className="menu-item-price"> 6 </div>
+                                    <div className="menu-item-name">double premium</div>
+                                    <div className="menu-item-price"> 6.7 </div>
+                                    <div className="menu-item-name">16oz classic pint</div>
+                                    <div className="menu-item-price"> 12</div>
+                                    <div className="menu-item-name">26oz classic pint</div>
+                                    <div className="menu-item-price"> 18 </div>
+                                    <div className="menu-item-name">16oz premium pint</div>
+                                    <div className="menu-item-price"> 16 </div>
+                                    <div className="menu-item-name">26oz premium pint</div>
+                                    <div className="menu-item-price"> 23 </div>
                                 </div>
+                                <br />
+                                <h3 className="menu-section-title">WAFFLE</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">fried ravioli</div>
-                                    <div className="menu-item-price"> $7 </div>
-                                    <div className="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
+                                    <div className="menu-item-name">browned butter waffle</div>
+                                    <div className="menu-item-price"> 4 </div>
                                 </div>
+                                <br />
+                                <h3 className="menu-section-title">MILKSHAKE</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">wild mushroom arancini</div>
-                                    <div className="menu-item-price"> $9 </div>
-                                    <div className="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
+                                    <div className="menu-item-name">regular flavour</div>
+                                    <div className="menu-item-price"> 6 </div>
+                                    <div className="menu-item-name">premium flavour</div>
+                                    <div className="menu-item-price"> 6.7 </div>
+                                    <div className="menu-item-name">additional regular scoop</div>
+                                    <div className="menu-item-price"> 2 </div>
+                                    <div className="menu-item-name">additional premium scoop</div>
+                                    <div className="menu-item-price"> 2.7 </div>
                                 </div>
-                                <div className="menu-item">
-                                    <div className="menu-item-name">mozzarella sticks</div>
-                                    <div className="menu-item-price"> $10 </div>
-                                    <div className="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                                </div>
+                                <br />
+                                <h3 className="menu-section-title">BAKES (subject to availability)</h3>
                             </div>
+                            <br />
                         </div>
                         <div className="col-xs-12 col-sm-6">
                             <div className="menu-section">
-                                <h3 className="menu-section-title">main course</h3>
+                                <h3 className="menu-section-title">COFFEE</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">roast stuffed chicken</div>
-                                    <div className="menu-item-price"> $18 </div>
-                                    <div className="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
+                                    <div className="menu-item-name">espresso</div>
+                                    <div className="menu-item-price"> 3 </div>
+                                    <div className="menu-item-name">americano</div>
+                                    <div className="menu-item-price"> 3 </div>
+                                    <div className="menu-item-name">latte</div>
+                                    <div className="menu-item-price"> 4 </div>
+                                    <div className="menu-item-name">cappuccino</div>
+                                    <div className="menu-item-price"> 4.5 </div>
+                                    <div className="menu-item-name">affogato</div>
+                                    <div className="menu-item-price"> 6 </div>
+                                    <div className="menu-item-name">iced</div>
+                                    <div className="menu-item-price"> +1 </div>
                                 </div>
+                                <br />
+                                <h3 className="menu-section-title">TEA</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">chicken & mushroom pasta</div>
-                                    <div className="menu-item-price"> $20 </div>
-                                    <div className="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
+                                    <div className="menu-item-name">english breakfast</div>
+                                    <div className="menu-item-price"> 4 </div>
+                                    <div className="menu-item-name">earl grey</div>
+                                    <div className="menu-item-price"> 4 </div>
+                                    <div className="menu-item-name">chamomile</div>
+                                    <div className="menu-item-price"> 4 </div>
+                                    <div className="menu-item-name">peppermint</div>
+                                    <div className="menu-item-price"> 4 </div>
+                                    <div className="menu-item-name">green tea</div>
+                                    <div className="menu-item-price"> 4 </div>
                                 </div>
+                                <br />
+                                <h3 className="menu-section-title">COOLER (weekend exclusive)</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">beef lasagne</div>
-                                    <div className="menu-item-price"> $14 </div>
-                                    <div className="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                                </div>
-                                <div className="menu-item">
-                                    <div className="menu-item-name">chicken goujons</div>
-                                    <div className="menu-item-price"> $19 </div>
-                                    <div className="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
+                                    <div className="menu-item-name">iced shaken earl grey lavender</div>
+                                    <div className="menu-item-price"> 5 </div>
+                                    <div className="menu-item-name">iced shaken coconut mint</div>
+                                    <div className="menu-item-price"> 5 </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div>*menu subject to changes</div>
                 </div>
             </div>
 

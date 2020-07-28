@@ -7,6 +7,7 @@ import Signatures from './components/SignatureDishes';
 import Menu from './components/Menu';
 import Gallery from './components/Gallery';
 import Location from './components/Location';
+import About from './components/About';
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
       <div className="App">
         <Navbar />
         <Home />
+        <About />
         <Signatures />
         <Menu />
         <Gallery />

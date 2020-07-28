@@ -14,18 +14,23 @@ class Location extends Component {
                 </div>
                 <p>Blk 645 Yishun Street 61 #01-322</p>
                 <p>Singapore 760645</p>
-                <p><a href="https://www.google.com.sg/maps/place/Block+645+HDB+Yishun/@1.421977,103.8362123,17z/data=!3m1!4b1!4m5!3m4!1s0x31da146c9af5f647:0x2acc29152f904e8a!8m2!3d1.421977!4d103.838401" target="_blank" rel="noopener noreferrer">Google Map</a></p>
+                <p><a href="https://www.google.com.sg/maps/place/Bloom+Artisan/@1.4219296,103.8360067,17z/data=!3m1!4b1!4m5!3m4!1s0x31da15d40dfa7a81:0xae439f254e544d25!8m2!3d1.4219296!4d103.8381954" target="_blank" rel="noopener noreferrer">Google Map</a></p>
                 <br></br>
-                <h5>operating hours:</h5>
-                <p>Mon-Sun: 11:00 AM - 10:00 PM</p>
+                <h5>operating hours</h5>
+                <p>Mon - Sun</p>
+                <p>11am - 10pm</p>
                 <br></br>
-                <h5>getting here:</h5>
-                <p>Nearest MRT: Yishun (North-South Line)</p>
-                <p>Bus: 66, 69, 190</p>
+                <h5>contact information</h5>
+                <p>bloomartisancafe@gmail.com</p>
+                <p>+65 9889 0366</p>
               </div>
             </div>
             <div className="col-md-6">
-              <div className="findus-img"><img src="img/map.png" alt="..." /></div>
+              <div className="findus-img">
+                <a href="https://www.google.com.sg/maps/place/Bloom+Artisan/@1.4219296,103.8360067,17z/data=!3m1!4b1!4m5!3m4!1s0x31da15d40dfa7a81:0xae439f254e544d25!8m2!3d1.4219296!4d103.8381954" target="_blank" rel="noopener noreferrer">
+                  <img src="img/map.png" alt="..." />
+                </a>
+              </div>
             </div>
           </div>
         </div>

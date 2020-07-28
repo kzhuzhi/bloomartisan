@@ -6,15 +6,15 @@ class SignatureDishes extends Component {
             <div id="signatures" className="text-center">
                 <div className="container">
                     <div className="section-title">
-                        <h2>our specials</h2>
+                        <h2>signatures</h2>
                     </div>
                     <div className="row">
                         <div className="col-xs-12 col-sm-5">
                             <div className="signatures-item">
                                 <img src="img/gallery/ice_cream_waffle.png" className="img-responsive" alt="" />
                                 <br></br>
-                                <h3>butter milk waffle</h3>
-                                <p>Simple yet delicious homemade waffle made with real buttermilk, giving it that rich buttery flavour. Light and crispy on the outside, soft and tender on the inside. Pair it with a scoop of our homemade gelato for the best experience.</p>
+                                <h3>browned butter waffle</h3>
+                                <p>Simple yet delicious homemade waffle made with browned butter, giving it that rich buttery flavour. Light and crispy on the outside, soft and tender on the inside. Pair it with a scoop of our homemade gelato for the best experience.</p>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-2"> </div>
