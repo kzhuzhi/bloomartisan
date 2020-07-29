@@ -20,7 +20,7 @@ class Menu extends Component {
                                     <div className="menu-item-name">double scoop</div>
                                     <div className="menu-item-price"> 6 </div>
                                     <div className="menu-item-name">double premium</div>
-                                    <div className="menu-item-price"> 6.7 </div>
+                                    <div className="menu-item-price"> 7.4 </div>
                                     <div className="menu-item-name">16oz classic pint</div>
                                     <div className="menu-item-price"> 12</div>
                                     <div className="menu-item-name">26oz classic pint</div>
@@ -33,7 +33,7 @@ class Menu extends Component {
                                 <br />
                                 <h3 className="menu-section-title">WAFFLE</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">browned butter waffle</div>
+                                    <div className="menu-item-name">brown butter sourdough waffle</div>
                                     <div className="menu-item-price"> 4 </div>
                                 </div>
                                 <br />
