@@ -33,7 +33,7 @@ h2::after {
 	left: 50%;
 }
 h3 {
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 400;
 	color: #333;
 }
@@ -283,7 +283,7 @@ header .intro-text {
 #about p {
 	line-height: 30px;
 	margin: 15px 0 30px;
-	font-size: 19px;
+	font-size: 16px;
 }
 /* Menu Section */
 #restaurant-menu {
@@ -303,8 +303,7 @@ header .intro-text {
 	margin: 0 20px 80px;
 }
 #restaurant-menu .menu-section-title {
-	/* font-size: 32px; */
-	font-size: 24px;
+	font-size: 20px;
 	display: block;
 	font-weight: 400;
 	color: #444;
@@ -318,20 +317,22 @@ header .intro-text {
 #restaurant-menu .menu-item-name {
 	font-family: "Bernn";
 	font-weight: 400;
-	font-size: 20px;
+	font-size: 16px;
 	color: #444;
 	margin-bottom: 10px;
 }
 #restaurant-menu .menu-item-description {
 	font-size: 15px;
 	width: 85%;
-	text-align: center;
 }
 #restaurant-menu .menu-item-price {
+	font-family: "Bernn";
 	float: right;
 	font-weight: 400;
+	font-size: 13px;
 	color: #555;
-	margin-top: -36px;
+	margin-top: -29px;
+	
 }
 /* Gallery Section */
 #gallery {
@@ -363,12 +364,11 @@ header .intro-text {
 }
 #findus h5 {
 	font-size: 16px;
-	line-height: 20px;
-	font-size: 14px;
+	line-height: 7px;
 	margin: 10px 0 20px;
 }
 #findus p {
-	line-height: 20px;
+	line-height: 7px;
 	font-size: 14px;
 	margin: 10px 0 20px;
 }

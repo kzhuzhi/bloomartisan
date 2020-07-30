@@ -13,8 +13,8 @@ class SignatureDishes extends Component {
                             <div className="signatures-item">
                                 <img src="img/gallery/ice_cream_waffle.png" className="img-responsive" alt="" />
                                 <br></br>
-                                <h3>browned butter waffle</h3>
-                                <p>Simple yet delicious homemade waffle made with browned butter, giving it that rich buttery flavour. Light and crispy on the outside, soft and tender on the inside. Pair it with a scoop of our homemade gelato for the best experience.</p>
+                                <h3>BROWN BUTTER SOURDOUGH WAFFLE</h3>
+                                <p>A simple yet delicious sourdough waffle made from scratch with brown butter that lends rich nutty notes, enhancing the savoury flavour. Light and crispy on the outside while soft and tender on the inside, pair it with a scoop of our homemade gelato for the perfect combination.</p>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-2"> </div>
@@ -23,7 +23,7 @@ class SignatureDishes extends Component {
                             <div className="signatures-item">
                                 <img src="img/gallery/gelato_cone.png" className="img-responsive" alt="" />
                                 <br></br>
-                                <h3>gelato</h3>
+                                <h3>GELATO</h3>
                                 <p>100% homemade gelato, made fresh everyday for your enjoyment. Our gelato comes in various curated flavours to suit all kinds of cravings that you have! Pair it with our homemade baked goods for that complete dessert experience.</p>
                             </div>
                         </div>
