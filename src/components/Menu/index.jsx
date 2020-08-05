@@ -13,11 +13,11 @@ class Menu extends Component {
                             <div className="menu-section">
                                 <h3 className="menu-section-title">GELATO</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">single scoop</div>
+                                    <div className="menu-item-name">single classic</div>
                                     <div className="menu-item-price"> 3.5 </div>
                                     <div className="menu-item-name">single premium</div>
                                     <div className="menu-item-price"> 4.2 </div>
-                                    <div className="menu-item-name">double scoop</div>
+                                    <div className="menu-item-name">double classic</div>
                                     <div className="menu-item-price"> 6 </div>
                                     <div className="menu-item-name">double premium</div>
                                     <div className="menu-item-price"> 7.4 </div>
@@ -42,13 +42,13 @@ class Menu extends Component {
                                 <br />
                                 <h3 className="menu-section-title">MILKSHAKE</h3>
                                 <div className="menu-item">
-                                    <div className="menu-item-name">regular flavour</div>
+                                    <div className="menu-item-name">classic flavour</div>
                                     <div className="menu-item-price"> 6 </div>
                                     <div className="menu-item-name">premium flavour</div>
                                     <div className="menu-item-price"> 6.7 </div>
-                                    <div className="menu-item-name">additional regular scoop</div>
+                                    <div className="menu-item-name">additional classic</div>
                                     <div className="menu-item-price"> +2 </div>
-                                    <div className="menu-item-name">additional premium scoop</div>
+                                    <div className="menu-item-name">additional premium</div>
                                     <div className="menu-item-price"> +2.7 </div>
                                 </div>
                             </div>
