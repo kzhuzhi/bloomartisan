@@ -17,7 +17,7 @@ class Location extends Component {
                 <p><a href="https://www.google.com.sg/maps/place/Bloom+Artisan/@1.4219296,103.8360067,17z/data=!3m1!4b1!4m5!3m4!1s0x31da15d40dfa7a81:0xae439f254e544d25!8m2!3d1.4219296!4d103.8381954" target="_blank" rel="noopener noreferrer">Google Map</a></p>
                 <br></br>
                 <h5>operating hours</h5>
-                <p>Mon - Sun (Closed on Tues)</p>
+                <p>Wed - Mon (Closed on Tues)</p>
                 <p>11am - 10pm</p>
                 <br></br>
                 <h5>contact information</h5>
