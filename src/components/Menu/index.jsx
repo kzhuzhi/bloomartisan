@@ -40,17 +40,9 @@ class Menu extends Component {
                                     <div className="menu-item-price"> 4 </div>
                                 </div>
                                 <br />
-                                <h3 className="menu-section-title">MILKSHAKE</h3>
-                                <div className="menu-item">
-                                    <div className="menu-item-name">classic flavour</div>
-                                    <div className="menu-item-price"> 6 </div>
-                                    <div className="menu-item-name">premium flavour</div>
-                                    <div className="menu-item-price"> 6.7 </div>
-                                    <div className="menu-item-name">additional classic</div>
-                                    <div className="menu-item-price"> +2 </div>
-                                    <div className="menu-item-name">additional premium</div>
-                                    <div className="menu-item-price"> +2.7 </div>
-                                </div>
+
+                                <h3 className="menu-section-title">MILKSHAKE (subject to availability)</h3>
+                                <h3 className="menu-section-title">BAKES (subject to availability)</h3>
                             </div>
                             <br />
                         </div>
@@ -86,7 +78,7 @@ class Menu extends Component {
                                     <div className="menu-item-price"> 4 </div>
                                 </div>
                                 <br />
-                                <h3 className="menu-section-title">COOLER (weekend exclusive)</h3>
+                                <h3 className="menu-section-title">COOLER</h3>
                                 <div className="menu-item">
                                     <div className="menu-item-name">iced earl grey lavender</div>
                                     <div className="menu-item-price"> 5 </div>
@@ -94,7 +86,6 @@ class Menu extends Component {
                                     <div className="menu-item-price"> 5 </div>
                                 </div>
                                 <br />
-                                <h3 className="menu-section-title">BAKES (subject to availability)</h3>
                             </div>
                         </div>
                     </div>
