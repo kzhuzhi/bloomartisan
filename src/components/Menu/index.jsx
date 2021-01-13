@@ -40,8 +40,6 @@ class Menu extends Component {
                                     <div className="menu-item-price"> 4 </div>
                                 </div>
                                 <br />
-
-                                <h3 className="menu-section-title">MILKSHAKE (subject to availability)</h3>
                                 <h3 className="menu-section-title">BAKES (subject to availability)</h3>
                             </div>
                             <br />
