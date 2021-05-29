@@ -7,16 +7,16 @@ class Gallery extends Component {
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-xs-6 col-md-3">
-                            <div className="gallery-item"> <img src="img/gallery/4.JPG" className="img-responsive" alt="" /></div>
+                            <div className="gallery-item"> <img src="img/gallery/bloom-website-small-image-cones.jpg" className="img-responsive" alt="" /></div>
                         </div>
                         <div className="col-xs-6 col-md-3">
-                            <div className="gallery-item"> <img src="img/gallery/2.JPG" className="img-responsive" alt="" /></div>
+                            <div className="gallery-item"> <img src="img/gallery/bloom-website-small-image-scoop.jpg" className="img-responsive" alt="" /></div>
                         </div>
                         <div className="col-xs-6 col-md-3">
-                            <div className="gallery-item"> <img src="img/gallery/3.JPG" className="img-responsive" alt="" /></div>
+                            <div className="gallery-item"> <img src="img/gallery/bloom-website-small-image-coffee.jpg" className="img-responsive" alt="" /></div>
                         </div>
                         <div className="col-xs-6 col-md-3">
-                            <div className="gallery-item"> <img src="img/gallery/1.JPG" className="img-responsive" alt="" /></div>
+                            <div className="gallery-item"> <img src="img/gallery/bloom-website-small-image-waffle.jpg" className="img-responsive" alt="" /></div>
                         </div>
                     </div>
                 </div>
