@@ -15,6 +15,7 @@ class Navbar extends Component {
                             <li><a href="#signatures" className="page-scroll">Signatures</a></li>
                             <li><a href="#restaurant-menu" className="page-scroll">Menu</a></li>
                             <li><a href="#findus" className="page-scroll">Find Us</a></li>
+                            <li><a href="https://bloomartisan.oddle.me/en_SG" target="_blank" rel="noopener noreferrer" className="page-scroll">Order Online</a></li>
                             
                         </ul>
                         <ul className="nav navbar-nav-right">
