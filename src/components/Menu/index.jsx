@@ -80,13 +80,13 @@ class Menu extends Component {
                                 <div className="menu-item">
                                     <div className="menu-item-name">iced earl grey lavender</div>
                                     <div className="menu-item-price"> 5 </div>
-                                    <div className="menu-item-name">iced coconut passionfruit</div>
+                                    <div className="menu-item-name">spring tempest</div>
                                     <div className="menu-item-price"> 5 </div>
-                                    <div className="menu-item-name">iced lemongrass fizz</div>
+                                    <div className="menu-item-name">summer love</div>
                                     <div className="menu-item-price"> 5 </div>
-                                    <div className="menu-item-name">iced root beer float</div>
+                                    <div className="menu-item-name">autumn breeze</div>
                                     <div className="menu-item-price"> 5 </div>
-                                    <div className="menu-item-name">iced coke float</div>
+                                    <div className="menu-item-name">winter rain</div>
                                     <div className="menu-item-price"> 5 </div>
                                 </div>
                                 <br />

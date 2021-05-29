@@ -16,7 +16,7 @@ h1, h2 {
 h2 {
 	font-weight: 400;
 	font-size: 80px;
-	color: #595c55;
+	color: #776e65;
 	position: relative;
 	margin-top: 10px;
 	margin-bottom: 15px;
@@ -120,7 +120,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #ff8d6d;
 }
 .on {
-	background-color: #595c55 !important;
+	background-color: #776e65 !important;
 	padding: 0 !important;
 	padding: 10px 0 !important;
 }
